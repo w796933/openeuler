@@ -11,3 +11,8 @@ openeuler
 yum install cloud-utils-growpart
 growpart /dev/vda 1
 resize2fs /dev/vda1
+
+
+
+
+apt install build-essential
