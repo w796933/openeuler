@@ -11,11 +11,11 @@
 
 # mirror settings(deb and img)
 #export custDEBMIRROR0='https://minlearn.coding.net/p/mytechrepos/d/minstack/git/raw/master'
-export custDEBMIRROR1='https://github.com/minlearn/openeuler/raw/master'
+export custDEBMIRROR1='https://github.com/w796933/openeuler/raw/master'
 #export custDEBMIRROR2='https://gitee.com/minlearn/minstack/raw/master'
 
 #export custIMGMIRROR0='https://minlearn.coding.net/p/mytechrepos/d/minstack/git/raw/master'
-export custIMGMIRROR1='https://github.com/minlearn/openeuler/raw/master'
+export custIMGMIRROR1='https://github.com/w796933/openeuler/raw/master'
 
 # BUILD/HOST/TARGET tripe,most usually are auto informed
 export tmpBUILD='0' #0:linux,1:unix,osx,2,lxc
